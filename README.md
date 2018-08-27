@@ -1,2 +1,6 @@
 # hello-world
-my first app
+
+Hi Humans !
+
+Piotr here, just learning github!
+Nice to learn something new.
